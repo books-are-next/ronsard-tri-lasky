@@ -5,19 +5,19 @@ contentType: prose
 
 Kdo by chtěl, Marie, tvé jméno rýmovat,
 
-> našel by: miluje. Miluj mě tedy, paní,  
-> a protože tě zve i jméno k milování,  
-> musíš své mladé dny do služeb lásky dát.
+_našel by: miluje. Miluj mě tedy, paní,  
+a protože tě zve i jméno k milování,  
+musíš své mladé dny do služeb lásky dát._
 
-> Jestli chceš navždycky mít ve mně milého,  
-> budeme společně a ve vzájemné lásce  
-> žít v samých radostech a už se žádné krásce  
-> nezdaří odvrátit mé srdce od tvého.
+_Jestli chceš navždycky mít ve mně milého,  
+budeme společně a ve vzájemné lásce  
+žít v samých radostech a už se žádné krásce  
+nezdaří odvrátit mé srdce od tvého._
 
-> Musíme přece mít na světě něco rádi:  
-> kdo nemiluje nic, ten utrácí své mládí,  
-> ten žije jako Skyt a bude umírat,
+_Musíme přece mít na světě něco rádi:  
+kdo nemiluje nic, ten utrácí své mládí,  
+ten žije jako Skyt a bude umírat,_
 
-> aniž kdy okusil největší slasti duše.  
-> A co je sladkého v životě bez Venuše?  
-> Kéž umřu ve chvíli, kdy přestanu mít rád!
+_aniž kdy okusil největší slasti duše.  
+A co je sladkého v životě bez Venuše?  
+Kéž umřu ve chvíli, kdy přestanu mít rád!_

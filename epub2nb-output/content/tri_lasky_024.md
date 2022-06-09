@@ -5,19 +5,19 @@ contentType: prose
 
 I teď, kdy nebe a kdy celá zem
 
-> je samý led a všechno kolem sněží  
-> a kdy se pláně všemi vlasy ježí  
-> pod nejhroznějším zimním měsícem,
+_je samý led a všechno kolem sněží  
+a kdy se pláně všemi vlasy ježí  
+pod nejhroznějším zimním měsícem,_
 
-> teď, kdy si vítr chodí, kudy chce,  
-> rozbíjí skály a rve kusy lesů  
-> a kdy se moře vzdouvá s jekem běsů  
-> a do pobřeží bije divoce,
+_teď, kdy si vítr chodí, kudy chce,  
+rozbíjí skály a rve kusy lesů  
+a kdy se moře vzdouvá s jekem běsů  
+a do pobřeží bije divoce,_
 
-> já tu dál hořím a ten tuhý mráz,  
-> jenž všechno zchladí, neochladil zas  
-> horoucí žár, jenž mě vždy znovu jímá.
+_já tu dál hořím a ten tuhý mráz,  
+jenž všechno zchladí, neochladil zas  
+horoucí žár, jenž mě vždy znovu jímá._
 
-> Hleďte, jak zkouším, vizte, milenci:  
-> umírám zimou v horkém červenci  
-> a hynu horkem, kdykoli je zima.
+_Hleďte, jak zkouším, vizte, milenci:  
+umírám zimou v horkém červenci  
+a hynu horkem, kdykoli je zima._
