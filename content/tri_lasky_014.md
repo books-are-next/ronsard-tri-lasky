@@ -5,19 +5,19 @@ contentType: prose
 
 Chci zemřít pro tvou krásu, paní má,
 
-> pro oči, jež mě jaly do svých tenat,  
-> chci zemřít pro tvá ústa úsměvná  
-> a polibky, jež nutí láskou sténat,
+_pro oči, jež mě jaly do svých tenat,  
+chci zemřít pro tvá ústa úsměvná  
+a polibky, jež nutí láskou sténat,_
 
-> chci zemřít pro tvé vlasy jako noc,  
-> pro něžnou křivku prsů, pro krok laní,  
-> pro přísnost sladké dlaně, jež má moc  
-> mě rázem uzdravit i na smrt ranit.
+_chci zemřít pro tvé vlasy jako noc,  
+pro něžnou křivku prsů, pro krok laní,  
+pro přísnost sladké dlaně, jež má moc  
+mě rázem uzdravit i na smrt ranit._
 
-> Pro samet pleti tvé chci život dát,  
-> chci pro tvou něhu věčně umírat,  
-> jsem láskou k tobě jako vínem zmámen.
+_Pro samet pleti tvé chci život dát,  
+chci pro tvou něhu věčně umírat,  
+jsem láskou k tobě jako vínem zmámen._
 
-> A především chci s tebou zemřít, ach,  
-> a padat, padat jako sebevrah  
-> do sladké propasti tvých ramen.
+_A především chci s tebou zemřít, ach,  
+a padat, padat jako sebevrah  
+do sladké propasti tvých ramen._

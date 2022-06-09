@@ -3,8 +3,6 @@ title: DOSLOV
 contentType: prose
 ---
 
-  
-
 V letech 1914–1918 připravovala skupina předních českých autorů, mezi jinými Viktor Dyk, Karel Čapek a Hanuš Jelínek, velkou antologii moderní francouzské poezie. Vznikala, jak píše poslední z jmenovaných, „v nejtěžších chvílích války“ a měla být „vyznáním naší víry, naděje i lásky“. Později to Karel Čapek formuloval ještě otevřeněji: kromě uměleckého manifestu to měl být také a v té chvíli především „hold českých spisovatelů krvácející Francii“. Krátce, co v té pohnuté době nemohli naši autoři z cenzurních důvodů vyslovit přímo a otevřeně svou vlastní tvorbou, to měly tak či onak vyjádřit nebo aspoň naznačit jejich básnické překlady. A patří k opakujícím se dramatům naší literatury, že podobným způsobem, prostřednictvím překladů, byla řada českých básníků nucena mluvit ke svým čtenářům znovu i po roce 1948, tentokrát ovšem celá desetiletí.
 
 Ta velká antologie francouzské poezie chystaná za první světové války bohužel v zamyšlené podobě nikdy nevyšla. Společné práci a diskusím nad přibývajícími překlady učinilo přítrž už za války zatče­ní a odsouzení V. Dyka, který si pak dal do vězení poslat originály autorů, na jejichž překladech tam chtěl pracovat. Tehdy totiž směli věznění autoři nejen číst a psát, co uznali za vhodné, ale často i publi­kovat; a o významu, který Dyk přikládal svým překladům, svědčí skutečnost, že některé z nich, jmenovitě z Huga, Baudelaira, Verlaina a Desbordes-Valmorové, pak zařadil do svých vlastních vězeňských sbírek, které po válce vyšly jako součást jeho _Válečné tetralogie_.
@@ -19,10 +17,10 @@ Verše o neúprosném úprku času a života, jež o tom svědčí a jež č
 
 Náznaky této druhé, skryté, trpké stránky Ronsardovy poezie lze ostatně najít tu a tam i v jeho _Láskách_. Výmluvným příkladem je mimo jiné hned úvodní čtyřverší jednoho ze sonetů, které psal pro svou pozdní inspirátorku Hélène de Surgères, s níž se seznámil roku 1570 za jedné ze svých stále řidších návštěv u dvora:
 
-Není to bláznovství, o lásce psát si dnes,  
+_Není to bláznovství, o lásce psát si dnes,  
 v tom věku bez víry, uprostřed běd a strázní,  
 války a starých pří? Daleko menší blázni,  
-než jsem já, byli už vsazeni do želez!
+než jsem já, byli už vsazeni do želez!_
 
 Jak celý tento sonet, tak řada jiných veršů, slok či básní potvrzují, že i u Ronsarda – tak jako u tolika dalších umělců nebo básníků té doby včetně takového Michelangela, Dürera nebo Tassa, s nímž se básník _Lásek_ dokonce setkal – se žízeň po plném životě a společenském uznání mísí s jakýmsi romantismem, smutkem a sklonem k melancholii, jež francouzský historik Jean Delumeau pokládá za jeden z příznačných rysů renesanční civilizace. Pierre de Ronsard, shrnuje Delumeau svůj portrét básníka _Lásek_, „je jedním z nej­autentičtějších představitelů ducha renesance; svědčí o tom jeho smyslovost spojená s upřímnou vírou, jeho astrologický pesi­mismus, jehož protiváhou je velká láska k životu, jeho nadšení pro antickou literaturu, provázené vášnivou touhou povznést na její úroveň svůj vlastní národní jazyk, a konečně i ta jedinečná směs jeho nezměrné vzdělanosti a básnické svěžesti.“
 
@@ -32,15 +30,15 @@ Knih o Ronsardově době, životě a díle jsou desítky, detailních studií 
 
 „V lyrickém světě prochází všechno, lidé, krajiny, paláce, _apoteózou_. A právě slovo apoteóza je v důsledku neomylné logiky přírody jedno z těch, jež se básníkovi neodbytně vnucují do pera, kdykoli chce popsat (a věřte, že to dělá s nemalým potěšením) směs slávy a světla. Najde-li lyrický básník příležitost mluvit o sobě, nebude se líčit, jak se sklání nad stolem, jak čmárá na bílý papír děsivá černá znamínka, jak zápolí se vzpurnou větou nebo bojuje s korektorovou nechápavostí, tak jako se nebude líčit v chudém, smutném nebo rozházeném pokoji; a podobně se nebude ukazovat, jak se rozkládá v rubáši na dně rakve, pokud se bude chtít objevit jako mrtvý. To by byla lež, hrůza! To by bylo popření pravé _skutečnosti_, to znamená jeho pravé povahy. Pro mrtvého básníka nejsou dost dobrými služebníky málem ani nymfy, hurisky a andělé. Může spočinout jedině v zelenajících se Elysiích, nebo v palácích krásnějších a hlubších než architektury z par, jež staví slunce, když zapadá.
 
-> Ale já budu žít v té říši věčných svátků  
->     přioděn purpurem  
-> a v sídle básníků pít nektar v sladkém chládku  
->     společně s Ronsardem.“
+_Ale já budu žít v té říši věčných svátků  
+    přioděn purpurem  
+a v sídle básníků pít nektar v sladkém chládku  
+    společně s Ronsardem.“_
 
 Baudelaire má pravdu: poezie velkých básníků, a tedy i Ronsardova, je především apoteózou.
 
-_Jan Vladislav_
+> _Jan Vladislav_
 
 * * *
 
-[1](./resources/undefined) Vyšly poprvé souborně zásluhou K. Čecháka pod názvem Francouzská poezie nové doby v překladech Viktora Dyka teprve roku 1957 jako bibliofilie v pražském Nakladatelství čs. výtvarných umělců.
+_[1](./resources/undefined) Vyšly poprvé souborně zásluhou K. Čecháka pod názvem _Francouzská poezie nové doby_ v překladech Viktora Dyka teprve roku 1957 jako bibliofilie v pražském Nakladatelství čs. výtvarných umělců._

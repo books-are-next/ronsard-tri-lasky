@@ -5,19 +5,19 @@ contentType: prose
 
 Helena Trojská vykreslila nití
 
-> zápas svých řeckých mužů na plátně;  
-> a ty se bavíš tím, že obratně  
-> zas vyšíváš mé strastiplné žití.
+_zápas svých řeckých mužů na plátně;  
+a ty se bavíš tím, že obratně  
+zas vyšíváš mé strastiplné žití._
 
-> Když už tak ale maluješ, má paní,  
-> tou černou nití moji záhubu,  
-> proč nevykreslíš také na rubu  
-> zelenou nitkou naděj pro mé štkaní?
+_Když už tak ale maluješ, má paní,  
+tou černou nití moji záhubu,  
+proč nevykreslíš také na rubu  
+zelenou nitkou naděj pro mé štkaní?_
 
-> Na tom tvém plátně svítí, žel, vždy znova  
-> jen samá černá, samá oranžová,  
-> ti smutní svědkové mých bědných let.
+_Na tom tvém plátně svítí, žel, vždy znova  
+jen samá černá, samá oranžová,  
+ti smutní svědkové mých bědných let._
 
-> Ach, mám to los! Nejen že mě svým okem  
-> vždy sráží v prach, navíc mi každým krokem  
-> slibuje moře ještě větších běd!
+_Ach, mám to los! Nejen že mě svým okem  
+vždy sráží v prach, navíc mi každým krokem  
+slibuje moře ještě větších běd!_
