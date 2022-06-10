@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Mám už hlavu jako trám,
 
 _jak tu pořád pročítám  
@@ -13,6 +15,10 @@ Kdo by chválil, který bloud,
 ty, co dřepí nad knihami  
 a nežijí nikdy sami?_
 
+</section>
+
+<section>
+
 _K čemu je to studovat,  
 nudit se a sužovat,  
 kupit starost na starosti,  
@@ -21,6 +27,10 @@ dnes či zítra, kdo to ví,
 odeberem k Hádovi,  
 který všechno živé skosí  
 a nic, nic ho neuprosí?_
+
+</section>
+
+<section>
 
 _A tak, chlapče, honem jdi,  
 po víně se rozhlédni,  
@@ -31,6 +41,10 @@ Po mase však netoužím:
 ač je tak rád vždycky vidím,  
 v létě maso nenávidím._
 
+</section>
+
+<section>
+
 _Kup mi raděj meruňky,  
 artyčoky, okurky  
 a smetanu na jahody.  
@@ -40,9 +54,15 @@ který hučí zhluboka,
 a přitom se provaluji  
 na břehu či v šeré sluji._
 
+</section>
+
+<section>
+
 _Dokud mám dost síly žít,  
 dotud budu pořád pít,  
 než mě nemoc jednoho dne  
 znenadání v srdci bodne  
 a pak řekne, krutý host:  
 Konec, brachu, už máš dost!_
+
+</section>

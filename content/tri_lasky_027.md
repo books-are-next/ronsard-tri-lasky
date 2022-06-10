@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Od toho dne, co lásku znám,
 
 _cokoli z jídla ochutnám,  
@@ -13,6 +15,10 @@ co bych rád jedl, co bych pil,
 a tak mě živí dnem i nocí  
 jen žal v mé duši silou mocí._
 
+</section>
+
+<section>
+
 _Všechno to, oč jsem dřív tak stál,  
 dokud jsem lásku nepoznal,  
 je pro mne teď jen hloupé hraní;  
@@ -21,6 +27,10 @@ míčová, tanec, štvanice —
 raději prchám ukrýt se  
 jak divé zvíře v hloubi sluje  
 i s touhou, jež mě rozpaluje._
+
+</section>
+
+<section>
 
 _Ach, byl to věru silný jed,  
 když mi vzal všecek rozum hned  
@@ -31,6 +41,10 @@ krok co krok s hlavou u země
 jako ten, kdo se pořád bojí  
 a pořád hyne v nepokoji._
 
+</section>
+
+<section>
+
 _I když snad trpěl Ixión,  
 já trpím stokrát víc než on  
 a raděj budu beze slova  
@@ -39,3 +53,5 @@ než jediný den milovat
 a přitom se tak sužovat  
 jako teď, kdy mně moje milá  
 navždycky srdce uloupila._
+
+</section>

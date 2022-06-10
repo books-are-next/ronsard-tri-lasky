@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Přitiskni, moje milá,
 
 _svá sladká ústa k mým,  
@@ -11,12 +13,20 @@ nebo se utrápím,
 polož mi kolem krku  
 tu svoji bílou ruku._
 
+</section>
+
+<section>
+
 _A pak tvář blízko tváře  
 mi pohleď do očí,  
 ať mi ta tvoje záře  
 do srdce přeskočí,  
 vždyť pije usouženo  
 jen lásku a tvé jméno._
+
+</section>
+
+<section>
 
 _Bývalo dřív tak smělé  
 a hrdé celý čas,  
@@ -25,12 +35,20 @@ tvé kráse napospas
 a v hoři blaženo je,  
 jenom když zemře tvoje._
 
+</section>
+
+<section>
+
 _Nemohu, moje krásko,  
 pro tebe ani spát;  
 líbej mě, moje lásko,  
 zlíbej mě nastokrát,  
 nebo chceš, abych pouze  
 u tebe vzdychal v touze?_
+
+</section>
+
+<section>
 
 _Já jsem tě nechtěl věru  
 ze spánku probudit;  
@@ -39,12 +57,20 @@ tvé krásné oči snít,
 jsem rád, když tady tají  
 pode mnou usínají._
 
+</section>
+
+<section>
+
 _Mám je snad, moje milá,  
 polibkem vzbudit již?  
 Ach, ty ses zamračila  
 a tím mě zabíjíš:  
 zmírám v tvých pažích žalem  
 a ty se směješ málem!_
+
+</section>
+
+<section>
 
 _Můj drahý nepříteli,  
 smiřme se raděj hned,  
@@ -53,9 +79,15 @@ polibkem zase zpět!
 Ach, jak mi projel prudce  
 až do samého srdce!_
 
+</section>
+
+<section>
+
 _Mám rád tu sladkou sílu,  
 to sladké blouznění,  
 když se dva bez rozdílu  
 milují v souznění!  
 Těším se na hodinu,  
 až samou láskou zhynu!_
+
+</section>
