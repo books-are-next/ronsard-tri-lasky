@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Nemohu žít a\_přitom nevzdychat"
+contentType: poetry
 ---
 
 <section>
 
-Nemohu žít a přitom nevzdychat
-
-_ode dne, kdy mi pohledy mé paní,  
+ode dne, kdy mi pohledy mé paní,  
 tak plné lásky, vlily znenadání  
-do duše jed, který jsem pil tak rád._
+do duše jed, který jsem pil tak rád.
 
 </section>
 
 <section>
 
-_Můj drahý sněhu, drahý plameni,  
+Můj drahý sněhu, drahý plameni,  
 hleďte, jak hořím a jak ledovatím:  
 jako vosk v ohni před vámi se tratím  
-a vámi nehne moje trápení._
+a vámi nehne moje trápení.
 
 </section>
 
 <section>
 
-_Jistě, můj život může být jen rád,  
+Jistě, můj život může být jen rád,  
 jestli se smí tak slastně rozplývat  
-před vaším zrakem, jenž mě neopouští._
+před vaším zrakem, jenž mě neopouští.
 
 </section>
 
 <section>
 
-_Leč vaše krása nepočítá s tím,  
+Leč vaše krása nepočítá s tím,  
 že přátelství se splácí přátelstvím  
-a láska bez lásky schne jak strom v poušti._
+a láska bez lásky schne jak strom v poušti.
 
 </section>

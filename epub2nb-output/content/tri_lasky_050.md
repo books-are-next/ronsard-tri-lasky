@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Přísahám, Heleno, dnes prvního dne v\_máji"
+contentType: poetry
 ---
 
 <section>
 
-Přísahám, Heleno, dnes prvního dne v máji
-
-_u vašich bratří dvou, Kastora s Polluxem,  
+u vašich bratří dvou, Kastora s Polluxem,  
 u svěží zeleně, jíž se teď ježí zem,  
-u rozpučelých rév, jež jilmy objímají,_
+u rozpučelých rév, jež jilmy objímají,
 
 </section>
 
 <section>
 
-_u matky Přírody, jež dcerku vesnu laská,  
+u matky Přírody, jež dcerku vesnu laská,  
 u křišťálových vod, jež pádí v potocích,  
 a u všech slavíků, zázraků luk a lích,  
-že vy už budete poslední moje sázka._
+že vy už budete poslední moje sázka.
 
 </section>
 
 <section>
 
-_Vy se mi jediná líbíte ze všech žen,  
+Vy se mi jediná líbíte ze všech žen,  
 vás jsem si vyvolil srdcem i rozmyslem,  
-a proto přijímám rád svoje sužování._
+a proto přijímám rád svoje sužování.
 
 </section>
 
 <section>
 
-_Já jsem si připravil svůj los sám, přiznávám;  
+Já jsem si připravil svůj los sám, přiznávám;  
 to ctnost mě zažehla takovou láskou k vám.  
-Kdyby však zklamala, pak sbohem, krásná paní!_
+Kdyby však zklamala, pak sbohem, krásná paní!
 
 </section>

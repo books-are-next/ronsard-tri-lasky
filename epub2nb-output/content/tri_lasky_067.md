@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Až jednou zestárlá budete v\_záři svíce"
+contentType: poetry
 ---
 
 <section>
 
-Až jednou zestárlá budete v záři svíce
-
-_u ohně sedět a spřádat len do noci,  
+u ohně sedět a spřádat len do noci,  
 nad mými verši si řeknete žasnoucí:  
-Když o mně Ronsard psal, byla jsem krasavice._
+Když o mně Ronsard psal, byla jsem krasavice.
 
 </section>
 
 <section>
 
-_To nebudete mít už ani služebnou,  
+To nebudete mít už ani služebnou,  
 jež by tam po práci klímala unavená  
 a jež by procitla při zvuku mého jména  
-a zahrnula vás svou chválou bezednou._
+a zahrnula vás svou chválou bezednou.
 
 </section>
 
 <section>
 
-_Já budu pod zemí už odpočívat v tichu  
+Já budu pod zemí už odpočívat v tichu  
 a bloudit bez těla v stínu myrt celý věk;  
-z vás bude u krbu schoulený věchýtek,_
+z vás bude u krbu schoulený věchýtek,
 
 </section>
 
 <section>
 
-_co v žalu vzpomíná na můj cit a svou pýchu.  
+co v žalu vzpomíná na můj cit a svou pýchu.  
 Ach, žijte, věřte mi, a nečekejte dál:  
-trhejte ještě dnes růže, jež život dal._
+trhejte ještě dnes růže, jež život dal.
 
 </section>

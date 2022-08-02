@@ -1,6 +1,6 @@
 ---
 title: KASANDRA
-contentType: prose
+contentType: poetry
 ---
 
 

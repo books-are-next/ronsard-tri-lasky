@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Zemřu-li ve tvé náruči, má paní,
+contentType: poetry
 ---
 
 <section>
 
-Zemřu-li ve tvé náruči, má paní,
-
-_budu mít vše; vždyť co bych mohl chtít  
+budu mít vše; vždyť co bych mohl chtít  
 za větší poctu než tě políbit  
-a na tvých prsou zemřít znenadání!_
+a na tvých prsou zemřít znenadání!
 
 </section>
 
 <section>
 
-_Ten, komu válka zažíhá krev v těle  
+Ten, komu válka zažíhá krev v těle  
 a komu nedá moc a mládí spát,  
 ať se jde bít a hledí ochutnat  
-sám na své hrudi čepel nepřítele._
+sám na své hrudi čepel nepřítele.
 
 </section>
 
 <section>
 
-_Já, chladnější, chci jenom za sto let  
+Já, chladnější, chci jenom za sto let  
 bez jména, slávy, ale také běd  
-usnout v tvém klíně a už neprobrat se._
+usnout v tvém klíně a už neprobrat se.
 
 </section>
 
 <section>
 
-_Taková smrt je lepší nastokrát,  
+Taková smrt je lepší nastokrát,  
 pokud já vím, než slavný majestát  
-a krátký život největšího vládce._
+a krátký život největšího vládce.
 
 </section>

@@ -1,0 +1,1537 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Tři lásky",
+  "author": "Pierre de Ronsard",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "ronsard-tri-lasky-31db4fd",
+  "revision": "31db4fd",
+  "readingOrder": [
+    "promo.html",
+    "tri_lasky_001.html",
+    "tri_lasky_002.html",
+    "tri_lasky_003.html",
+    "tri_lasky_004.html",
+    "tri_lasky_005.html",
+    "tri_lasky_006.html",
+    "tri_lasky_007.html",
+    "tri_lasky_008.html",
+    "tri_lasky_009.html",
+    "tri_lasky_010.html",
+    "tri_lasky_011.html",
+    "tri_lasky_012.html",
+    "tri_lasky_013.html",
+    "tri_lasky_014.html",
+    "tri_lasky_015.html",
+    "tri_lasky_016.html",
+    "tri_lasky_017.html",
+    "tri_lasky_018.html",
+    "tri_lasky_019.html",
+    "tri_lasky_020.html",
+    "tri_lasky_021.html",
+    "tri_lasky_022.html",
+    "tri_lasky_023.html",
+    "tri_lasky_024.html",
+    "tri_lasky_025.html",
+    "tri_lasky_026.html",
+    "tri_lasky_027.html",
+    "tri_lasky_028.html",
+    "tri_lasky_029.html",
+    "tri_lasky_030.html",
+    "tri_lasky_031.html",
+    "tri_lasky_032.html",
+    "tri_lasky_033.html",
+    "tri_lasky_034.html",
+    "tri_lasky_035.html",
+    "tri_lasky_036.html",
+    "tri_lasky_037.html",
+    "tri_lasky_038.html",
+    "tri_lasky_039.html",
+    "tri_lasky_040.html",
+    "tri_lasky_041.html",
+    "tri_lasky_042.html",
+    "tri_lasky_043.html",
+    "tri_lasky_044.html",
+    "tri_lasky_045.html",
+    "tri_lasky_046.html",
+    "tri_lasky_047.html",
+    "tri_lasky_048.html",
+    "tri_lasky_049.html",
+    "tri_lasky_050.html",
+    "tri_lasky_051.html",
+    "tri_lasky_052.html",
+    "tri_lasky_053.html",
+    "tri_lasky_054.html",
+    "tri_lasky_055.html",
+    "tri_lasky_056.html",
+    "tri_lasky_057.html",
+    "tri_lasky_058.html",
+    "tri_lasky_059.html",
+    "tri_lasky_060.html",
+    "tri_lasky_061.html",
+    "tri_lasky_062.html",
+    "tri_lasky_063.html",
+    "tri_lasky_064.html",
+    "tri_lasky_065.html",
+    "tri_lasky_066.html",
+    "tri_lasky_067.html",
+    "tri_lasky_068.html",
+    "tri_lasky_069.html",
+    "tri_lasky_070.html",
+    "tri_lasky_071.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 02 2022 06:29:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659421796809
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "tri_lasky_001.html",
+      "toc": []
+    },
+    {
+      "title": "Tři lásky",
+      "file": "tri_lasky_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "tri_lasky_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři lásky",
+      "file": "tri_lasky_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "tri_lasky_001.html",
+      "next": "tri_lasky_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři lásky",
+      "file": "tri_lasky_003.html",
+      "words": 13,
+      "chars": 74,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 3,
+      "prev": "tri_lasky_002.html",
+      "next": "tri_lasky_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři lásky",
+      "file": "tri_lasky_004.html",
+      "words": 92,
+      "chars": 592,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "tri_lasky_003.html",
+      "next": "tri_lasky_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KASANDRA",
+      "file": "tri_lasky_005.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "tri_lasky_004.html",
+      "next": "tri_lasky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KASANDRA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doufám a zoufám, nemám slov a prosím,",
+      "file": "tri_lasky_006.html",
+      "words": 103,
+      "chars": 500,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 6,
+      "prev": "tri_lasky_005.html",
+      "next": "tri_lasky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doufám a zoufám, nemám slov a prosím,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dej mně mír, lásko, poruč už klid zbraní,",
+      "file": "tri_lasky_007.html",
+      "words": 92,
+      "chars": 455,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "tri_lasky_006.html",
+      "next": "tri_lasky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dej mně mír, lásko, poruč už klid zbraní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vypálím na svět celé svoje hoře",
+      "file": "tri_lasky_008.html",
+      "words": 95,
+      "chars": 478,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 8,
+      "prev": "tri_lasky_007.html",
+      "next": "tri_lasky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vypálím na svět celé svoje hoře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chtěl bych se zvolna jako hustý proud",
+      "file": "tri_lasky_009.html",
+      "words": 93,
+      "chars": 483,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "tri_lasky_008.html",
+      "next": "tri_lasky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chtěl bych se zvolna jako hustý proud",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má milá, pojďme podívat se,",
+      "file": "tri_lasky_010.html",
+      "words": 91,
+      "chars": 480,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 10,
+      "prev": "tri_lasky_009.html",
+      "next": "tri_lasky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má milá, pojďme podívat se,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tisíckrát myslet tutéž myšlenku,",
+      "file": "tri_lasky_011.html",
+      "words": 88,
+      "chars": 493,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "tri_lasky_010.html",
+      "next": "tri_lasky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tisíckrát myslet tutéž myšlenku,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To, že smím svírat v pažích den co den",
+      "file": "tri_lasky_012.html",
+      "words": 94,
+      "chars": 483,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "tri_lasky_011.html",
+      "next": "tri_lasky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To, že smím svírat v pažích den co den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kéž bych se mohl pomstít jedenkrát",
+      "file": "tri_lasky_013.html",
+      "words": 88,
+      "chars": 436,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 13,
+      "prev": "tri_lasky_012.html",
+      "next": "tri_lasky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kéž bych se mohl pomstít jedenkrát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chci zemřít pro tvou krásu, paní má,",
+      "file": "tri_lasky_014.html",
+      "words": 92,
+      "chars": 482,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "tri_lasky_013.html",
+      "next": "tri_lasky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chci zemřít pro tvou krásu, paní má,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až budem spolu v chrámu stát",
+      "file": "tri_lasky_015.html",
+      "words": 235,
+      "chars": 1230,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 15,
+      "prev": "tri_lasky_014.html",
+      "next": "tri_lasky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až budem spolu v chrámu stát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ach, lásko, jak je krásná moje milá,",
+      "file": "tri_lasky_016.html",
+      "words": 91,
+      "chars": 460,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 16,
+      "prev": "tri_lasky_015.html",
+      "next": "tri_lasky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ach, lásko, jak je krásná moje milá,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebesa, vánky, pahorky a pláně,",
+      "file": "tri_lasky_017.html",
+      "words": 78,
+      "chars": 451,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 17,
+      "prev": "tri_lasky_016.html",
+      "next": "tri_lasky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebesa, vánky, pahorky a pláně,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zemřu-li ve tvé náruči, má paní,",
+      "file": "tri_lasky_018.html",
+      "words": 90,
+      "chars": 461,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "tri_lasky_017.html",
+      "next": "tri_lasky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zemřu-li ve tvé náruči, má paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přijmi tu růži, milou jako ty,",
+      "file": "tri_lasky_019.html",
+      "words": 93,
+      "chars": 442,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "tri_lasky_018.html",
+      "next": "tri_lasky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přijmi tu růži, milou jako ty,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozumu zbaven, vášní zotročen",
+      "file": "tri_lasky_020.html",
+      "words": 90,
+      "chars": 463,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "tri_lasky_019.html",
+      "next": "tri_lasky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozumu zbaven, vášní zotročen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemohu žít a přitom nevzdychat",
+      "file": "tri_lasky_021.html",
+      "words": 88,
+      "chars": 470,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "tri_lasky_020.html",
+      "next": "tri_lasky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemohu žít a přitom nevzdychat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíc se do měsíce",
+      "file": "tri_lasky_022.html",
+      "words": 152,
+      "chars": 723,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 22,
+      "prev": "tri_lasky_021.html",
+      "next": "tri_lasky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Měsíc se do měsíce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zděšený hledám, kde bych našel pramen",
+      "file": "tri_lasky_023.html",
+      "words": 94,
+      "chars": 477,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "tri_lasky_022.html",
+      "next": "tri_lasky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zděšený hledám, kde bych našel pramen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I teď, kdy nebe a kdy celá zem",
+      "file": "tri_lasky_024.html",
+      "words": 88,
+      "chars": 451,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 24,
+      "prev": "tri_lasky_023.html",
+      "next": "tri_lasky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I teď, kdy nebe a kdy celá zem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Helena Trojská vykreslila nití",
+      "file": "tri_lasky_025.html",
+      "words": 86,
+      "chars": 469,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "tri_lasky_024.html",
+      "next": "tri_lasky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Helena Trojská vykreslila nití",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když tě tak někdy vidím zadumanou",
+      "file": "tri_lasky_026.html",
+      "words": 89,
+      "chars": 482,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 26,
+      "prev": "tri_lasky_025.html",
+      "next": "tri_lasky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když tě tak někdy vidím zadumanou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Od toho dne, co lásku znám,",
+      "file": "tri_lasky_027.html",
+      "words": 173,
+      "chars": 854,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 27,
+      "prev": "tri_lasky_026.html",
+      "next": "tri_lasky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Od toho dne, co lásku znám,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chci tři dny jenom číst a přečíst Iliadu,",
+      "file": "tri_lasky_028.html",
+      "words": 106,
+      "chars": 535,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 28,
+      "prev": "tri_lasky_027.html",
+      "next": "tri_lasky_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chci tři dny jenom číst a přečíst Iliadu,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mám už hlavu jako trám,",
+      "file": "tri_lasky_029.html",
+      "words": 164,
+      "chars": 864,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 29,
+      "prev": "tri_lasky_028.html",
+      "next": "tri_lasky_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mám už hlavu jako trám,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MARIE",
+      "file": "tri_lasky_030.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 30,
+      "prev": "tri_lasky_029.html",
+      "next": "tri_lasky_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MARIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zde je mé srdce, zde je, moje paní,",
+      "file": "tri_lasky_031.html",
+      "words": 101,
+      "chars": 492,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "tri_lasky_030.html",
+      "next": "tri_lasky_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zde je mé srdce, zde je, moje paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo by chtěl, Marie, tvé jméno rýmovat,",
+      "file": "tri_lasky_032.html",
+      "words": 101,
+      "chars": 530,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 32,
+      "prev": "tri_lasky_031.html",
+      "next": "tri_lasky_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo by chtěl, Marie, tvé jméno rýmovat,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska je kouzelník: když přijdu ke své milé",
+      "file": "tri_lasky_033.html",
+      "words": 117,
+      "chars": 560,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 33,
+      "prev": "tri_lasky_032.html",
+      "next": "tri_lasky_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska je kouzelník: když přijdu ke své milé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má milá je můj anděl z ráje,",
+      "file": "tri_lasky_034.html",
+      "words": 130,
+      "chars": 643,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 34,
+      "prev": "tri_lasky_033.html",
+      "next": "tri_lasky_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má milá je můj anděl z ráje,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pryč, srdce, honem pryč, ať už se neplahočí",
+      "file": "tri_lasky_035.html",
+      "words": 108,
+      "chars": 588,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 35,
+      "prev": "tri_lasky_034.html",
+      "next": "tri_lasky_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pryč, srdce, honem pryč, ať už se neplahočí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Víc než má jaro květů v háji",
+      "file": "tri_lasky_036.html",
+      "words": 68,
+      "chars": 317,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 36,
+      "prev": "tri_lasky_035.html",
+      "next": "tri_lasky_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Víc než má jaro květů v háji",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tu kytici, kterou vám posílám,",
+      "file": "tri_lasky_037.html",
+      "words": 91,
+      "chars": 465,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 37,
+      "prev": "tri_lasky_036.html",
+      "next": "tri_lasky_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tu kytici, kterou vám posílám,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přitiskni, moje milá,",
+      "file": "tri_lasky_038.html",
+      "words": 195,
+      "chars": 992,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 38,
+      "prev": "tri_lasky_037.html",
+      "next": "tri_lasky_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přitiskni, moje milá,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miláčku, vstaňte již, smí se tak dlouho spát?",
+      "file": "tri_lasky_039.html",
+      "words": 103,
+      "chars": 562,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 39,
+      "prev": "tri_lasky_038.html",
+      "next": "tri_lasky_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miláčku, vstaňte již, smí se tak dlouho spát?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlč, vlaštovko, ty repetilko,",
+      "file": "tri_lasky_040.html",
+      "words": 68,
+      "chars": 331,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 40,
+      "prev": "tri_lasky_039.html",
+      "next": "tri_lasky_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlč, vlaštovko, ty repetilko,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavíku, miláčku, co zpíváš ve vrboví",
+      "file": "tri_lasky_041.html",
+      "words": 111,
+      "chars": 538,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 41,
+      "prev": "tri_lasky_040.html",
+      "next": "tri_lasky_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavíku, miláčku, co zpíváš ve vrboví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty se ptáš, moje znejmilejší,",
+      "file": "tri_lasky_042.html",
+      "words": 105,
+      "chars": 553,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 42,
+      "prev": "tri_lasky_041.html",
+      "next": "tri_lasky_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty se ptáš, moje znejmilejší,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Klíč k mému srdci jste odnesla, moje paní,",
+      "file": "tri_lasky_043.html",
+      "words": 124,
+      "chars": 628,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "tri_lasky_042.html",
+      "next": "tri_lasky_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klíč k mému srdci jste odnesla, moje paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Já jsem tak vroucí milenec,",
+      "file": "tri_lasky_044.html",
+      "words": 59,
+      "chars": 288,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 44,
+      "prev": "tri_lasky_043.html",
+      "next": "tri_lasky_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Já jsem tak vroucí milenec,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marie, polib mne; ale ne, nelíbej mě,",
+      "file": "tri_lasky_045.html",
+      "words": 109,
+      "chars": 548,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 45,
+      "prev": "tri_lasky_044.html",
+      "next": "tri_lasky_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marie, polib mne; ale ne, nelíbej mě,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jen jí dokážu dát sbohem při loučení,",
+      "file": "tri_lasky_046.html",
+      "words": 137,
+      "chars": 743,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 46,
+      "prev": "tri_lasky_045.html",
+      "next": "tri_lasky_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jen jí dokážu dát sbohem při loučení,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak jako růži, jež rozkvétá na větvi,",
+      "file": "tri_lasky_047.html",
+      "words": 105,
+      "chars": 522,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 47,
+      "prev": "tri_lasky_046.html",
+      "next": "tri_lasky_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tak jako růži, jež rozkvétá na větvi,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má sladká mladost uplynula,",
+      "file": "tri_lasky_048.html",
+      "words": 132,
+      "chars": 661,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 48,
+      "prev": "tri_lasky_047.html",
+      "next": "tri_lasky_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má sladká mladost uplynula,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HELENA",
+      "file": "tri_lasky_049.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 49,
+      "prev": "tri_lasky_048.html",
+      "next": "tri_lasky_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HELENA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přísahám, Heleno, dnes prvního dne v máji",
+      "file": "tri_lasky_050.html",
+      "words": 101,
+      "chars": 553,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 50,
+      "prev": "tri_lasky_049.html",
+      "next": "tri_lasky_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přísahám, Heleno, dnes prvního dne v máji",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když piji dlouhými doušky ten sladký svit",
+      "file": "tri_lasky_051.html",
+      "words": 107,
+      "chars": 572,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 51,
+      "prev": "tri_lasky_050.html",
+      "next": "tri_lasky_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když piji dlouhými doušky ten sladký svit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když jsem stál onehdy na schodech před domem",
+      "file": "tri_lasky_052.html",
+      "words": 114,
+      "chars": 575,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 52,
+      "prev": "tri_lasky_051.html",
+      "next": "tri_lasky_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když jsem stál onehdy na schodech před domem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tolikrát hněvat se, tolikrát smiřovat,",
+      "file": "tri_lasky_053.html",
+      "words": 91,
+      "chars": 533,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 53,
+      "prev": "tri_lasky_052.html",
+      "next": "tri_lasky_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tolikrát hněvat se, tolikrát smiřovat,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trnitý jalovče, jejž hostí horský svah,",
+      "file": "tri_lasky_054.html",
+      "words": 96,
+      "chars": 563,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 54,
+      "prev": "tri_lasky_053.html",
+      "next": "tri_lasky_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trnitý jalovče, jejž hostí horský svah,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Objímej, líbej mě, svírej mě, moje paní,",
+      "file": "tri_lasky_055.html",
+      "words": 107,
+      "chars": 558,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 55,
+      "prev": "tri_lasky_054.html",
+      "next": "tri_lasky_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Objímej, líbej mě, svírej mě, moje paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jestli je láska snít a myslet ve dne v noci",
+      "file": "tri_lasky_056.html",
+      "words": 128,
+      "chars": 647,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 56,
+      "prev": "tri_lasky_055.html",
+      "next": "tri_lasky_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jestli je láska snít a myslet ve dne v noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když jsem tu onehdy směl s vámi hovořit,",
+      "file": "tri_lasky_057.html",
+      "words": 105,
+      "chars": 549,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 57,
+      "prev": "tri_lasky_056.html",
+      "next": "tri_lasky_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když jsem tu onehdy směl s vámi hovořit,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jestli je samý led, samý sníh celé roky,",
+      "file": "tri_lasky_058.html",
+      "words": 99,
+      "chars": 532,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 58,
+      "prev": "tri_lasky_057.html",
+      "next": "tri_lasky_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jestli je samý led, samý sníh celé roky,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vy tady tančíte ve víru ostatních",
+      "file": "tri_lasky_059.html",
+      "words": 107,
+      "chars": 553,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 59,
+      "prev": "tri_lasky_058.html",
+      "next": "tri_lasky_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vy tady tančíte ve víru ostatních",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sbohem, má Kasandro, i vy, má Marie,",
+      "file": "tri_lasky_060.html",
+      "words": 102,
+      "chars": 530,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 60,
+      "prev": "tri_lasky_059.html",
+      "next": "tri_lasky_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sbohem, má Kasandro, i vy, má Marie,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když jsem dnes uléhal, viděl jsem hasnout svíci",
+      "file": "tri_lasky_061.html",
+      "words": 109,
+      "chars": 567,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 61,
+      "prev": "tri_lasky_060.html",
+      "next": "tri_lasky_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když jsem dnes uléhal, viděl jsem hasnout svíci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lásko, jež jediná máš klíč k mým myšlenkám,",
+      "file": "tri_lasky_062.html",
+      "words": 101,
+      "chars": 544,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 62,
+      "prev": "tri_lasky_061.html",
+      "next": "tri_lasky_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lásko, jež jediná máš klíč k mým myšlenkám,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komáre, obludo se sloním chobotem,",
+      "file": "tri_lasky_063.html",
+      "words": 105,
+      "chars": 553,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 63,
+      "prev": "tri_lasky_062.html",
+      "next": "tri_lasky_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komáre, obludo se sloním chobotem,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyjíždět k indickým ostrovům za obchody",
+      "file": "tri_lasky_064.html",
+      "words": 99,
+      "chars": 539,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 64,
+      "prev": "tri_lasky_063.html",
+      "next": "tri_lasky_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyjíždět k indickým ostrovům za obchody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Není to bláznovství, o lásce psát si dnes,",
+      "file": "tri_lasky_065.html",
+      "words": 112,
+      "chars": 569,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 65,
+      "prev": "tri_lasky_064.html",
+      "next": "tri_lasky_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Není to bláznovství, o lásce psát si dnes,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za dlouhých nočních chvil, kdy kočár luny krouží",
+      "file": "tri_lasky_066.html",
+      "words": 109,
+      "chars": 552,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 66,
+      "prev": "tri_lasky_065.html",
+      "next": "tri_lasky_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za dlouhých nočních chvil, kdy kočár luny krouží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až jednou zestárlá budete v záři svíce",
+      "file": "tri_lasky_067.html",
+      "words": 104,
+      "chars": 531,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 67,
+      "prev": "tri_lasky_066.html",
+      "next": "tri_lasky_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až jednou zestárlá budete v záři svíce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sbohem, ty ukrutná, už jsem ti na obtíž;",
+      "file": "tri_lasky_068.html",
+      "words": 116,
+      "chars": 595,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 68,
+      "prev": "tri_lasky_067.html",
+      "next": "tri_lasky_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sbohem, ty ukrutná, už jsem ti na obtíž;",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOSLOV",
+      "file": "tri_lasky_069.html",
+      "words": 1678,
+      "chars": 10581,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 69,
+      "prev": "tri_lasky_068.html",
+      "next": "tri_lasky_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOSLOV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EDIČNÍ POZNÁMKA",
+      "file": "tri_lasky_070.html",
+      "words": 81,
+      "chars": 545,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 70,
+      "prev": "tri_lasky_069.html",
+      "next": "tri_lasky_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EDIČNÍ POZNÁMKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři lásky",
+      "file": "tri_lasky_071.html",
+      "words": 53,
+      "chars": 332,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 71,
+      "prev": "tri_lasky_070.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8459,
+      "chars": 45881,
+      "ideas": 1078
+    },
+    "chapters": {
+      "words": 8451,
+      "chars": 45841,
+      "ideas": 1073
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: DOSLOV
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -52,10 +52,10 @@ Knih o Ronsardově době, životě a díle jsou desítky, detailních studií 
 
 <section>
 
-_Ale já budu žít v té říši věčných svátků  
+Ale já budu žít v té říši věčných svátků  
     přioděn purpurem  
 a v sídle básníků pít nektar v sladkém chládku  
-    společně s Ronsardem.“_
+    společně s Ronsardem.“
 
 </section>
 

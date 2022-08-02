@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Není to bláznovství, o\_lásce psát si dnes,"
+contentType: poetry
 ---
 
 <section>
 
-Není to bláznovství, o lásce psát si dnes,
-
-_v tom věku bez víry, uprostřed běd a strázní,  
+v tom věku bez víry, uprostřed běd a strázní,  
 války a sterých pří? Daleko menší blázni,  
-než jsem já, byli už vsazeni do želez!_
+než jsem já, byli už vsazeni do želez!
 
 </section>
 
 <section>
 
-_Jaká to chyba, stár a chorý navracet se  
+Jaká to chyba, stár a chorý navracet se  
 k lásce a jejím snům! Ó Bože, smiluj se,  
 ty nejsi láska už, ty jsi má lítice,  
-jež ze mne udělá jen dětinu a slepce!_
+jež ze mne udělá jen dětinu a slepce!
 
 </section>
 
 <section>
 
-_Vidět svou zemi v plen nepřátel napořád,  
+Vidět svou zemi v plen nepřátel napořád,  
 vidět své korouhve už tonout v moři hrůzy,  
-vidět tu strašnou spoušť a na lásku si hrát!_
+vidět tu strašnou spoušť a na lásku si hrát!
 
 </section>
 
 <section>
 
-_Sbohem, vy bosorky! Sbohem, jdu k soudu, Múzy,  
+Sbohem, vy bosorky! Sbohem, jdu k soudu, Múzy,  
 a budu šťastnější, když vyhraju své pře,  
-než kdybych na věky byl s vámi zadobře!_
+než kdybych na věky byl s vámi zadobře!
 
 </section>

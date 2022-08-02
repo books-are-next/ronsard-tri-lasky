@@ -1,48 +1,46 @@
 ---
-title: ''
-contentType: prose
+title: Jak jen jí dokážu dát sbohem při loučení,
+contentType: poetry
 ---
 
 <section>
 
-Jak jen jí dokážu dát sbohem při loučení,
-
-_když pouhá myšlenka na to mi bere dech?  
+když pouhá myšlenka na to mi bere dech?  
 Sbohem, můj živote, sbohem, mé potěšení,  
-sbohem, mé soužení, pro něž jsem samý vzdech!_
+sbohem, mé soužení, pro něž jsem samý vzdech!
 
 </section>
 
 <section>
 
-_Sbohem, ty pohlede, v němž žhnu a ledovatím,  
+Sbohem, ty pohlede, v němž žhnu a ledovatím,  
 sbohem, ty příčino běd, které miluji,  
 sbohem, můj ledovče, můj ohni, v němž se tratím,  
-sbohem, ty, pro kterou žiji a vdechuji._
+sbohem, ty, pro kterou žiji a vdechuji.
 
 </section>
 
 <section>
 
-_Sbohem, má spanilá, má prostá, sladká paní,  
+Sbohem, má spanilá, má prostá, sladká paní,  
 sbohem, vy okovy, v nichž jsem byl uvězněn  
 chvíli pln radosti, chvíli pln naříkání,  
-už je čas odejít, přišel ten krušný den!_
+už je čas odejít, přišel ten krušný den!
 
 </section>
 
 <section>
 
-_Já po tom netoužím; nutnost mě od vás žene;  
+Já po tom netoužím; nutnost mě od vás žene;  
 touha mě sotva kdy z těchto míst odežene!  
-Odejde však jen krok; srdce tu bude dál_
+Odejde však jen krok; srdce tu bude dál
 
 </section>
 
 <section>
 
-_a vy je přijměte, jak jsem je zanechal,  
+a vy je přijměte, jak jsem je zanechal,  
 prosím vás pro lásku, která je naším bohem:  
-tady je, vezměte, polibte mne, a sbohem!_
+tady je, vezměte, polibte mne, a sbohem!
 
 </section>

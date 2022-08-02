@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Doufám a\_zoufám, nemám slov a\_prosím,"
+contentType: poetry
 ---
 
 <section>
 
-Doufám a zoufám, nemám slov a prosím,
-
-_jsem jako led a hořím jako vích,  
+jsem jako led a hořím jako vích,  
 pro všechno mám hned obdiv a hned smích,  
-setřásám jho a pak je znovu nosím._
+setřásám jho a pak je znovu nosím.
 
 </section>
 
 <section>
 
-_Mám rád jen to, čeho pak trpce želím,  
+Mám rád jen to, čeho pak trpce želím,  
 jsem statečný a chybí mi dost sil,  
 mám malou naděj, ale velký cíl,  
-lekám se lásky, a přec jí vždy čelím._
+lekám se lásky, a přec jí vždy čelím.
 
 </section>
 
 <section>
 
-_Oč víc se chystám, o to víc se vzpírám,  
+Oč víc se chystám, o to víc se vzpírám,  
 přeji si volnost a sám se uzavírám,  
-přeji si vše a chci jen jedno mít._
+přeji si vše a chci jen jedno mít.
 
 </section>
 
 <section>
 
-_Jsem Prométheus v tom svém utrpení:  
+Jsem Prométheus v tom svém utrpení:  
 troufám si, toužím, chci — a pak to není;  
-tak černě spředla Sudička mou nit._
+tak černě spředla Sudička mou nit.
 
 </section>
