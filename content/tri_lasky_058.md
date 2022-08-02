@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Jestli je samý led, samý sníh celé roky,
+contentType: poetry
 ---
 
 <section>
 
-Jestli je samý led, samý sníh celé roky,
-
-_nosí-li na srdci rampouchy jako štít  
+nosí-li na srdci rampouchy jako štít  
 a miluje-li mě jedině pro mé sloky,  
-proč se já bláhový neumím vyprostit?_
+proč se já bláhový neumím vyprostit?
 
 </section>
 
 <section>
 
-_Čím je mi její rod, jméno a jeho váha  
+Čím je mi její rod, jméno a jeho váha  
 než krásným vězením a jařmem, jež mě ctí?  
 Tak jsem však nezbělel, aby vás, moje drahá,  
-nemohla nahradit jiná a vroucnější._
+nemohla nahradit jiná a vroucnější.
 
 </section>
 
 <section>
 
-_Láska je dítě a děti nic neskrývají:  
+Láska je dítě a děti nic neskrývají:  
 nejste tak vznešený, ani tak krásný skvost,  
-abyste musela shlížet i na vroucnost._
+abyste musela shlížet i na vroucnost.
 
 </section>
 
 <section>
 
-_Já už se nemohu navrátit k svému máji,  
+Já už se nemohu navrátit k svému máji,  
 proto mě milujte, tak jak jsem bělavý —  
-vždyť jednou budete taková také vy._
+vždyť jednou budete taková také vy.
 
 </section>

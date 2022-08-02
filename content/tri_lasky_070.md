@@ -1,6 +1,6 @@
 ---
 title: EDIČNÍ POZNÁMKA
-contentType: prose
+contentType: poetry
 ---
 
 <section>

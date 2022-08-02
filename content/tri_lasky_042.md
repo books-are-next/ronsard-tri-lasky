@@ -1,50 +1,48 @@
 ---
-title: ''
-contentType: prose
+title: Ty se ptáš, moje znejmilejší,
+contentType: poetry
 ---
 
 <section>
 
-Ty se ptáš, moje znejmilejší,
-
-_jaký je ten můj život zdejší?  
+jaký je ten můj život zdejší?  
 Přísahám ti, a ty to víš,  
-je takový, jak poroučíš —_
+je takový, jak poroučíš —
 
 </section>
 
 <section>
 
-_ubohý, bědný, usoužený,  
+ubohý, bědný, usoužený,  
 bolestný, smutný, bez vší ceny,  
 a všechno zlo, jež láska dá,  
-mě ve dne v noci přepadá._
+mě ve dne v noci přepadá.
 
 </section>
 
 <section>
 
-_A pak se ptáš, má znejmilejší,  
+A pak se ptáš, má znejmilejší,  
 kdo provází můj život zdejší?  
 Provází jej, a ty to víš,  
-jedině to, co poroučíš —_
+jedině to, co poroučíš —
 
 </section>
 
 <section>
 
-_stesk, starost, smutek, sužování,  
+stesk, starost, smutek, sužování,  
 povzdechy, slzy, úzkost, štkaní,  
 a všechno zlo, jež láska dá,  
-mě ve dne v noci přepadá._
+mě ve dne v noci přepadá.
 
 </section>
 
 <section>
 
-_Tak žiju, moje znejmilejší,  
+Tak žiju, moje znejmilejší,  
 dík tobě ten svůj život zdejší,  
 šťasten, že trpím napořád  
-jen proto, že tě mám tak rád._
+jen proto, že tě mám tak rád.
 
 </section>

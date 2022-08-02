@@ -1,93 +1,91 @@
 ---
-title: ''
-contentType: prose
+title: Přitiskni, moje milá,
+contentType: poetry
 ---
 
 <section>
 
-Přitiskni, moje milá,
-
-_svá sladká ústa k mým,  
+svá sladká ústa k mým,  
 abys mi ulevila,  
 nebo se utrápím,  
 polož mi kolem krku  
-tu svoji bílou ruku._
+tu svoji bílou ruku.
 
 </section>
 
 <section>
 
-_A pak tvář blízko tváře  
+A pak tvář blízko tváře  
 mi pohleď do očí,  
 ať mi ta tvoje záře  
 do srdce přeskočí,  
 vždyť pije usouženo  
-jen lásku a tvé jméno._
+jen lásku a tvé jméno.
 
 </section>
 
 <section>
 
-_Bývalo dřív tak smělé  
+Bývalo dřív tak smělé  
 a hrdé celý čas,  
 teď se však vzdalo celé  
 tvé kráse napospas  
 a v hoři blaženo je,  
-jenom když zemře tvoje._
+jenom když zemře tvoje.
 
 </section>
 
 <section>
 
-_Nemohu, moje krásko,  
+Nemohu, moje krásko,  
 pro tebe ani spát;  
 líbej mě, moje lásko,  
 zlíbej mě nastokrát,  
 nebo chceš, abych pouze  
-u tebe vzdychal v touze?_
+u tebe vzdychal v touze?
 
 </section>
 
 <section>
 
-_Já jsem tě nechtěl věru  
+Já jsem tě nechtěl věru  
 ze spánku probudit;  
 jsem rád, když vidím v šeru  
 tvé krásné oči snít,  
 jsem rád, když tady tají  
-pode mnou usínají._
+pode mnou usínají.
 
 </section>
 
 <section>
 
-_Mám je snad, moje milá,  
+Mám je snad, moje milá,  
 polibkem vzbudit již?  
 Ach, ty ses zamračila  
 a tím mě zabíjíš:  
 zmírám v tvých pažích žalem  
-a ty se směješ málem!_
+a ty se směješ málem!
 
 </section>
 
 <section>
 
-_Můj drahý nepříteli,  
+Můj drahý nepříteli,  
 smiřme se raděj hned,  
 vrať mi můj život celý  
 polibkem zase zpět!  
 Ach, jak mi projel prudce  
-až do samého srdce!_
+až do samého srdce!
 
 </section>
 
 <section>
 
-_Mám rád tu sladkou sílu,  
+Mám rád tu sladkou sílu,  
 to sladké blouznění,  
 když se dva bez rozdílu  
 milují v souznění!  
 Těším se na hodinu,  
-až samou láskou zhynu!_
+až samou láskou zhynu!
 
 </section>

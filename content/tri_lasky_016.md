@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Ach, lásko, jak je krásná moje milá,
+contentType: poetry
 ---
 
 <section>
 
-Ach, lásko, jak je krásná moje milá,
-
-_když vzhlížím k jejím purpurovým rtům,  
+když vzhlížím k jejím purpurovým rtům,  
 anebo k očím, těm svým vladařům,  
-anebo k tváři, jež mě uchvátila._
+anebo k tváři, jež mě uchvátila.
 
 </section>
 
 <section>
 
-_Ach, lásko, jak je ukrutná má paní,  
+Ach, lásko, jak je ukrutná má paní,  
 když pohrdá a probouzí můj žal,  
 když vzdoruje, tak že bych zaplakal,  
-když odmítá a znovu mě tím raní._
+když odmítá a znovu mě tím raní.
 
 </section>
 
 <section>
 
-_Ta její krása chutná jako med;  
+Ta její krása chutná jako med;  
 ta její krutost pálí jako jed  
-a samou žluč mi do života lije._
+a samou žluč mi do života lije.
 
 </section>
 
 <section>
 
-_A tak se živím celý dlouhý čas:  
+A tak se živím celý dlouhý čas:  
 chvíli jsem živ a chvíli mrtev zas  
-tak jako ti dva bratři z Oibalie._
+tak jako ti dva bratři z Oibalie.
 
 </section>

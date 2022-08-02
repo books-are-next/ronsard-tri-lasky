@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Helena Trojská vykreslila nití
+contentType: poetry
 ---
 
 <section>
 
-Helena Trojská vykreslila nití
-
-_zápas svých řeckých mužů na plátně;  
+zápas svých řeckých mužů na plátně;  
 a ty se bavíš tím, že obratně  
-zas vyšíváš mé strastiplné žití._
+zas vyšíváš mé strastiplné žití.
 
 </section>
 
 <section>
 
-_Když už tak ale maluješ, má paní,  
+Když už tak ale maluješ, má paní,  
 tou černou nití moji záhubu,  
 proč nevykreslíš také na rubu  
-zelenou nitkou naděj pro mé štkaní?_
+zelenou nitkou naděj pro mé štkaní?
 
 </section>
 
 <section>
 
-_Na tom tvém plátně svítí, žel, vždy znova  
+Na tom tvém plátně svítí, žel, vždy znova  
 jen samá černá, samá oranžová,  
-ti smutní svědkové mých bědných let._
+ti smutní svědkové mých bědných let.
 
 </section>
 
 <section>
 
-_Ach, mám to los! Nejen že mě svým okem  
+Ach, mám to los! Nejen že mě svým okem  
 vždy sráží v prach, navíc mi každým krokem  
-slibuje moře ještě větších běd!_
+slibuje moře ještě větších běd!
 
 </section>

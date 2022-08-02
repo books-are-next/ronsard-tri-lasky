@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Rozumu zbaven, vášní zotročen
+contentType: poetry
 ---
 
 <section>
 
-Rozumu zbaven, vášní zotročen
-
-_ženu se jako lovec za svou zvěří  
+ženu se jako lovec za svou zvěří  
 hned přes hory, a hned zas přes pobřeží  
-houštinou mládí, omylů a změn._
+houštinou mládí, omylů a změn.
 
 </section>
 
 <section>
 
-_Má smečka je sled samých neštěstí,  
+Má smečka je sled samých neštěstí,  
 můj slídič srdce, jež nic neodradí,  
 a moji chrti nadšení a mládí,  
-a moji honci naděj s bolestí._
+a moji honci naděj s bolestí.
 
 </section>
 
 <section>
 
-_Když ji však vidí, jak jim bez přestání  
+Když ji však vidí, jak jim bez přestání  
 prchá tím víc, čím víc se ženou za ní,  
-pustí svou kořist, obrátí se ke mně_
+pustí svou kořist, obrátí se ke mně
 
 </section>
 
 <section>
 
-_a začnou trhat kusy masa ze mne.  
+a začnou trhat kusy masa ze mne.  
 Ach jaká hrůza, jaká bída běd,  
-když začne slouha pánu poroučet!_
+když začne slouha pánu poroučet!
 
 </section>

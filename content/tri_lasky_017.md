@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Nebesa, vánky, pahorky a\_pláně,"
+contentType: poetry
 ---
 
 <section>
 
-Nebesa, vánky, pahorky a pláně,
-
-_rozryté kopce, bory po obzor,  
+rozryté kopce, bory po obzor,  
 mechaté sluje v holých bocích hor,  
-zelené háje, paseky a stráně,_
+zelené háje, paseky a stráně,
 
 </section>
 
 <section>
 
-_zurčící zřídla, vinoucí se toky,  
+zurčící zřídla, vinoucí se toky,  
 zrosené louky, trávy, květiny,  
 viničné svahy, plavé písčiny,  
-můj Loire a vy, mé smutné sloky,_
+můj Loire a vy, mé smutné sloky,
 
 </section>
 
 <section>
 
-_protože sám jsem nedovedl říci,  
+protože sám jsem nedovedl říci,  
 když jsem měl odjet smutný, žalostící,  
-sbohem těm očím, jež mi v srdci tkví,_
+sbohem těm očím, jež mi v srdci tkví,
 
 </section>
 
 <section>
 
-_prosím vás, nebe, planiny a hory,  
+prosím vás, nebe, planiny a hory,  
 vás, zřídla, řeky, paseky a bory,  
-vás, louky, květy, řekněte to vy!_
+vás, louky, květy, řekněte to vy!
 
 </section>

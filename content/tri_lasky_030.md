@@ -1,6 +1,6 @@
 ---
 title: MARIE
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: HELENA
-contentType: prose
+contentType: poetry
 ---
 
 
