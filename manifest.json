@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ronsard-tri-lasky-5c14fc4",
-  "revision": "5c14fc4",
+  "identifier": "ronsard-tri-lasky-265f7f9",
+  "revision": "265f7f9",
   "readingOrder": [
     "promo.html",
     "tri_lasky_005.html",
@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Aug 02 2022 06:49:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659422952744
+    "date": "Thu Sep 29 2022 21:33:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487229923
   },
   "documents": [
     {
@@ -1381,7 +1381,7 @@
       "title": "DOSLOV",
       "file": "tri_lasky_069.html",
       "words": 1678,
-      "chars": 10581,
+      "chars": 10582,
       "ideas": 23,
       "role": "chapter",
       "order": 65,
@@ -1421,7 +1421,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 894,
+      "chars": 895,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1441,12 +1441,12 @@
   "totals": {
     "all": {
       "words": 8439,
-      "chars": 45772,
+      "chars": 45774,
       "ideas": 1068
     },
     "chapters": {
       "words": 8291,
-      "chars": 44843,
+      "chars": 44844,
       "ideas": 1047
     }
   }
