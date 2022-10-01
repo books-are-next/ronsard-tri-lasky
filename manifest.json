@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ronsard-tri-lasky-265f7f9",
-  "revision": "265f7f9",
+  "identifier": "ronsard-tri-lasky-f719a27",
+  "revision": "f719a27",
   "readingOrder": [
     "promo.html",
     "tri_lasky_005.html",
@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:33:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487229923
+    "date": "Sat Oct 01 2022 16:03:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640196613
   },
   "documents": [
     {
