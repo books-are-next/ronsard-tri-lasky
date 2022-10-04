@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ronsard-tri-lasky-f719a27",
-  "revision": "f719a27",
+  "identifier": "ronsard-tri-lasky-27c9588",
+  "revision": "27c9588",
   "readingOrder": [
     "promo.html",
     "tri_lasky_005.html",
@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:03:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640196613
+    "date": "Tue Oct 04 2022 16:51:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902278693
   },
   "documents": [
     {
@@ -1420,9 +1420,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 141,
+      "words": 139,
       "chars": 895,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "tri_lasky_070.html",
@@ -1440,9 +1440,9 @@
   ],
   "totals": {
     "all": {
-      "words": 8439,
+      "words": 8437,
       "chars": 45774,
-      "ideas": 1068
+      "ideas": 1066
     },
     "chapters": {
       "words": 8291,

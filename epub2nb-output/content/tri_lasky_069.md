@@ -66,5 +66,7 @@ Baudelaire má pravdu: poezie velkých básníků, a tedy i Ronsardova, je př
 > _Jan Vladislav_
 
 * * *
+
 [^1]: Vyšly poprvé souborně zásluhou K. Čecháka pod názvem _Francouzská poezie nové doby_ v překladech Viktora Dyka teprve roku 1957 jako bibliofilie v pražském Nakladatelství čs. výtvarných umělců.
+
 </section>
