@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2816-8
 readingOrder:
   - promo.html
   - tri_lasky_005.html
